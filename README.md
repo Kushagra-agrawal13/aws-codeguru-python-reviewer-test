@@ -24,3 +24,12 @@ CodeGuru Reviewer can point to the location of those errors and other sources of
 9. Review the recommendations that CodeGuru Reviewer made.
 10. Finally resolve the error in code.
 11. Choose Merge pull request. You can optionally add a note. Finally, choose Confirm merge.
+
+# This is how aws CodeGuru shows recommendations to be made in code.
+![Screenshot (330)](https://user-images.githubusercontent.com/81745697/120063866-6223f980-c07a-11eb-9d25-4c5d72c8af4a.png)
+It shows 2 recommendations in my calculator.py as seen. 
+
+# These are the 2 recommendations. 
+![Screenshot (331)](https://user-images.githubusercontent.com/81745697/120063901-93042e80-c07a-11eb-82d8-df85825cc5c7.png)
+
+
